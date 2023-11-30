@@ -16,10 +16,11 @@ Access the Power BI report to interactively explore the visualization of attriti
 
 ## Usage
 
-1. Open the Power BI report.
-2. Explore different visualizations to understand attrition patterns.
-3. Contribute by providing feedback or suggestions.
+## Usage
 
+1. **Access the Power BI Report:** [Link to Power BI Report]
+2. **Explore Visualizations:** Dive into different charts and graphs to decipher patterns and gain insights.
+3. **Contribute:** Your feedback is invaluable! Contribute by providing suggestions, insights, or reporting issues.
 ## Contributing
 
 Contributions are welcome! If you have ideas for improving the analysis or additional insights, feel free to open an issue or submit a pull request.
