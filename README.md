@@ -1,16 +1,18 @@
 # Employee Attrition Analysis of Glover Cooperation with Power BI
 
-Explore the factors behind employee attrition through data visualization using Power BI. This project aims to identify key influences on attrition rates, providing valuable insights for human resources and management.
+Explore the factors behind employee attrition through data visualization using Power BI. This analysis visualizes employee attrition patterns and trends using Power BI. 
 
-## Overview
+## Objective
 
-This analysis visualizes employee attrition patterns and trends using Power BI. The primary aim is to explore why certain employees choose to leave and identify patterns that contribute to enhancing the workplace. Rather than delving into intricate numbers, the focus is on uncovering narratives concealed within the data.
+The primary aim is to explore why certain employees choose to leave and identify patterns that contribute to enhancing the workplace. Rather than delving into intricate numbers, the focus is on uncovering narratives concealed within the data.
 
 ## Dataset
 
 The analysis is based on a dataset containing employee information, including demographics, job roles, and relevant performance metrics.
 
 ## Power BI Report
+
+
 
 Access the Power BI report to interactively explore the visualization of attrition insights.
 
