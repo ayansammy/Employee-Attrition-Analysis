@@ -30,32 +30,32 @@ From the report dashboard, the following observations were made:
 
 #### Retention vs. Attrition Rates:
 
-1. The retention rate is higher (83.88%) compared to the attrition rate (16.22%).
+- The retention rate is higher (83.88%) compared to the attrition rate (16.22%).
 83.88% of total employees tend to stay in the company, while 16.22% leave for various reasons.
 
 #### Age Group Analysis:
 
-2. Workers aged 26-35 constitute the most prevalent group (606 individuals).
+- Workers aged 26-35 constitute the most prevalent group (606 individuals).
 Within this age group, males significantly outnumber females (368 compared to 238).
 
 #### Attrition Based on Age:
 
-3. Individuals aged 18-25 exhibit the highest attrition rate due to business travel.
+- Individuals aged 18-25 exhibit the highest attrition rate due to business travel.
 Females in this group have a higher attrition rate (41.86%) compared to males (32.50%).
 Those aged 36-45 have the least attrition rate among age classes.
 
 #### Attrition and Travel:
 
-4. Employees who travel frequently have a higher attrition rate.
+- Employees who travel frequently have a higher attrition rate.
 This group tends to leave the company more than those who rarely travel or do not travel at all.
 
 #### Marital Status Impact:
 
-5. Single workers tend to leave the company more frequently than their married counterparts.
+- Single workers tend to leave the company more frequently than their married counterparts.
 
 #### Job Roles and Departments:
 
-6. Sales Executive is the highest-ranking position (326 individuals).
+- Sales Executive is the highest-ranking position (326 individuals).
 The Human Resources department has 52 workers.
 In the Research & Development, there's a high number of workers, with a predominance of males.
 
