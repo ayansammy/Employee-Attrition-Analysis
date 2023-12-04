@@ -28,42 +28,42 @@ Access the Power BI report to interactively explore the visualization of attriti
 
 From the report dashboard, the following observations were made:
 
-## Retention vs. Attrition Rates:
+### Retention vs. Attrition Rates:
 
 1. The retention rate is higher (83.88%) compared to the attrition rate (16.22%).
 83.88% of total employees tend to stay in the company, while 16.22% leave for various reasons.
 
-## Age Group Analysis:
+### Age Group Analysis:
 
 2. Workers aged 26-35 constitute the most prevalent group (606 individuals).
 Within this age group, males significantly outnumber females (368 compared to 238).
 
-## Attrition Based on Age:
+### Attrition Based on Age:
 
 3. Individuals aged 18-25 exhibit the highest attrition rate due to business travel.
 Females in this group have a higher attrition rate (41.86%) compared to males (32.50%).
 Those aged 36-45 have the least attrition rate among age classes.
 
-## Attrition and Travel:
+### Attrition and Travel:
 
 4. Employees who travel frequently have a higher attrition rate.
 This group tends to leave the company more than those who rarely travel or do not travel at all.
 
-## Marital Status Impact:
+### Marital Status Impact:
 
 5. Single workers tend to leave the company more frequently than their married counterparts.
 
-## Job Roles and Departments:
+### Job Roles and Departments:
 
 6. Sales Executive is the highest-ranking position (326 individuals).
 The Human Resources department has 52 workers.
 In the Research & Development, there's a high number of workers, with a predominance of males.
 
 
-## Conclusion:
+### Conclusion:
 - Based on the observations from the report dashboard, several key trends have emerged that provide valuable insights into the workforce dynamics within the company. Notably, the retention rate surpasses the attrition rate, indicating a generally stable employment environment. However, a closer examination reveals nuanced patterns related to age, travel, marital status, and departmental distribution.
 
-## Recommendations:
+### Recommendations:
 Address Attrition in Younger Age Groups:
 - Given the higher attrition rates among individuals aged 18-25, targeted strategies should be implemented to understand and mitigate the factors contributing to their departure, particularly related to business travel.
 
