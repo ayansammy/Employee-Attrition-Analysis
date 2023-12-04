@@ -1,7 +1,7 @@
 # Employee Attrition Analysis of Glover Cooperation with Power BI
 
 Explore the factors behind employee attrition through data visualization using Power BI. This analysis visualizes employee attrition patterns and trends using Power BI. 
-Glover Co-operation has a substantial number of workers 1,479 with 9 different job roles. It has 3 departments. The retention rate is higher when compared to the attrition rate. 83.88% of the total employees tend to stay in the company compared to 16.22% of those leaving the company for one reason or another. 
+Glover Co-operation has a substantial number of workers 1,479 with 9 different job roles. It has 3 departments.
 
 ## Objective
 
@@ -26,25 +26,58 @@ Access the Power BI report to interactively explore the visualization of attriti
 
 ## Usage
 
-From the report dashboard, several observations stand out:
+From the report dashboard, the following observations were made:
 
-- 1. Workers aged 26-35 constitute the most prevalent age group within the company, totaling 606 individuals. Among this age group, males significantly outnumber females, with 368 compared to 238.
+## Retention vs. Attrition Rates:
 
-- 2. Individuals aged 18-25 exhibit the highest predominant attrition rate based on business travel. Notably, the age group that travels the most is also the one with the highest attrition. Females in this demographic have a higher attrition rate at 41.86%, compared to males at 32.50%. Conversely, those aged 36-45 have the least attrition rate among the age classes.
+1. The retention rate is higher (83.88%) compared to the attrition rate (16.22%).
+83.88% of total employees tend to stay in the company, while 16.22% leave for various reasons.
 
-- 3. A noteworthy trend highlighted in the report is the high attrition rate among employees who travel frequently. This group tends to leave the company more than those who rarely travel or do not travel at all.
+## Age Group Analysis:
 
-- 4. Additionally, the dashboard report indicates that single workers tend to leave the company more frequently than their married counterparts.
+2. Workers aged 26-35 constitute the most prevalent group (606 individuals).
+Within this age group, males significantly outnumber females (368 compared to 238).
 
-- 5. Regarding job roles, the highest-ranking position is Sales Executive, with a value of 326, while the Human Resources department has just 52 workers.
+## Attrition Based on Age:
 
-- 6. In the department section, the Research division boasts the highest number of workers, with a predominance of males in this department.
+3. Individuals aged 18-25 exhibit the highest attrition rate due to business travel.
+Females in this group have a higher attrition rate (41.86%) compared to males (32.50%).
+Those aged 36-45 have the least attrition rate among age classes.
 
-## Usage
+## Attrition and Travel:
 
-1. **Access the Power BI Report:** [Link to Power BI Report]
-2. **Explore Visualizations:** Dive into different charts and graphs to decipher patterns and gain insights.
-3. **Contribute:** Your feedback is invaluable! Contribute by providing suggestions, insights, or reporting issues.
-## Contributing
+4. Employees who travel frequently have a higher attrition rate.
+This group tends to leave the company more than those who rarely travel or do not travel at all.
 
-Contributions are welcome! If you have ideas for improving the analysis or additional insights, feel free to open an issue or submit a pull request.
+## Marital Status Impact:
+
+5. Single workers tend to leave the company more frequently than their married counterparts.
+
+## Job Roles and Departments:
+
+6. Sales Executive is the highest-ranking position (326 individuals).
+The Human Resources department has 52 workers.
+In the Research & Development, there's a high number of workers, with a predominance of males.
+
+
+## Conclusion:
+- Based on the observations from the report dashboard, several key trends have emerged that provide valuable insights into the workforce dynamics within the company. Notably, the retention rate surpasses the attrition rate, indicating a generally stable employment environment. However, a closer examination reveals nuanced patterns related to age, travel, marital status, and departmental distribution.
+
+## Recommendations:
+Address Attrition in Younger Age Groups:
+- Given the higher attrition rates among individuals aged 18-25, targeted strategies should be implemented to understand and mitigate the factors contributing to their departure, particularly related to business travel.
+
+Employee Engagement for Frequent Travelers:
+- Recognizing the elevated attrition rate among employees who travel frequently, efforts should be made to enhance the engagement and satisfaction of this group. This may include providing additional support, recognition, or incentives to mitigate potential burnout.
+
+Support for Single Employees:
+- Since the dashboard indicates that single workers tend to leave the company more frequently, consider implementing initiatives to provide additional support or benefits to this demographic, aiming to improve their overall job satisfaction and retention.
+
+Diversity and Inclusion in Leadership:
+- Acknowledging the gender disparity, particularly in certain age groups and departments, the company should explore initiatives to promote diversity and inclusion, especially in leadership positions. This could contribute to a more balanced and inclusive work environment.
+
+Continuous Monitoring and Feedback:
+- Establish regular monitoring mechanisms to track workforce dynamics and obtain employee feedback. This will facilitate the identification of emerging trends and allow for timely interventions to address potential issues.
+
+Tailored Training and Development:
+- Consider implementing targeted training and development programs, especially in departments with higher attrition rates, to enhance skills, job satisfaction, and career progression, ultimately contributing to employee retention.
