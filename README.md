@@ -22,7 +22,7 @@ To investigate the reasons for the 16.22% of workers leaving the company, I buil
 5. Analysis was done as well to see the gender and age group that are prevalent leaving the company. 
 
 
-## Here is a snapshot of the Power BI report dashboard
+## Here is a snapshot of the Power BI Report Dashboard
 ![Report Dashboard](Images/Report_Dashboard.png)
 
 ## Usage
