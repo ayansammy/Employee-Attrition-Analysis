@@ -12,7 +12,7 @@ The primary aim is to explore why certain employees choose to leave and identify
 The analysis is based on a dataset containing employee information, including demographics, job roles, and relevant performance metrics.
 
 ## Power BI Report
-To investigate the reasons for the 16.22% of workers leaving the company, I built a comprehensive report dashboard to help identify the reasons behind this. 
+To investigate the reasons for the 16.12% of workers leaving the company, I built a comprehensive report dashboard to help identify the reasons behind this. 
 
 
 1. Analysis was done to check various age groups per gender.
